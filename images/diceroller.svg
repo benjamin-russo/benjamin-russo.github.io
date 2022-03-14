@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f28b00"/>
+      <stop offset="1" stop-color="#ffca00"/>
+    </linearGradient>
+    <clipPath id="clip-diceroller">
+      <rect width="800" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="diceroller" clip-path="url(#clip-diceroller)">
+    <rect width="800" height="500" fill="url(#linear-gradient)"/>
+    <text id="DiceRoller-2" data-name="DiceRoller" transform="translate(400 369)" fill="#fff" font-size="70" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-177.974" y="0">DiceRoller</tspan></text>
+    <path id="dices" d="M82.5,0A22.5,22.5,0,0,1,105,22.5V45h22.5A22.5,22.5,0,0,1,150,67.5v60A22.5,22.5,0,0,1,127.5,150h-60A22.5,22.5,0,0,1,45,127.5V105H22.5A22.5,22.5,0,0,1,0,82.5v-60A22.5,22.5,0,0,1,22.5,0Zm45,60h-60a7.5,7.5,0,0,0-7.45,6.625L60,67.5v60a7.5,7.5,0,0,0,6.625,7.45l.875.05h60a7.5,7.5,0,0,0,7.45-6.626l.05-.874v-60a7.5,7.5,0,0,0-6.626-7.45ZM75,112.5a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,75,112.5Zm45,0a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,120,112.5ZM97.5,90A7.5,7.5,0,1,1,90,97.5,7.5,7.5,0,0,1,97.5,90ZM83.374,15.05,82.5,15h-60a7.5,7.5,0,0,0-7.45,6.625L15,22.5v60a7.5,7.5,0,0,0,6.625,7.45L22.5,90H45V67.5A22.5,22.5,0,0,1,67.5,45H90V22.5A7.5,7.5,0,0,0,83.374,15.05ZM75,67.5A7.5,7.5,0,1,1,67.5,75,7.5,7.5,0,0,1,75,67.5Zm45,0a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,120,67.5Zm-86.155-.052a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,33.845,67.448Zm0-22.5a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,33.845,44.948Zm0-22.5a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,33.845,22.448Zm37.5,0a7.5,7.5,0,1,1-7.5,7.5A7.5,7.5,0,0,1,71.345,22.448Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 307.763, 148.645)" fill="#fff"/>
+  </g>
+</svg>

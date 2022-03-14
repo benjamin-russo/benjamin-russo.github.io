@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bb00f2"/>
+      <stop offset="1" stop-color="#5d00ff"/>
+    </linearGradient>
+    <clipPath id="clip-invader">
+      <rect width="800" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="invader" clip-path="url(#clip-invader)">
+    <rect width="800" height="500" fill="url(#linear-gradient)"/>
+    <text id="Invader-2" data-name="Invader" transform="translate(400 335)" fill="#fff" font-size="70" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-134.36" y="0">Invader</tspan></text>
+    <path id="gamepad" d="M43.75,31.255H50a6.25,6.25,0,1,1,0,12.5H43.75v6.25a6.25,6.25,0,0,1-12.5,0v-6.25H25a6.25,6.25,0,1,1,0-12.5h6.25v-6.25a6.25,6.25,0,0,1,12.5,0Zm14.487-25H91.762A37.5,37.5,0,0,1,150,37.505c0,20.713-16.788,62.5-37.5,62.5-12.35,0-23.306-14.863-30.138-31.25H67.637c-6.825,16.387-17.787,31.25-30.137,31.25-20.712,0-37.5-41.788-37.5-62.5A37.5,37.5,0,0,1,58.237,6.255Zm37.3,12.5H54.462l-3.15-2.094A25,25,0,0,0,12.5,37.505c0,19.481,15.887,50,25,50,4.513,0,12.525-8.987,18.6-23.563l3.213-7.687H90.7l3.206,7.687c6.069,14.575,14.081,23.563,18.594,23.563,9.113,0,25-30.519,25-50A25,25,0,0,0,98.688,16.661Zm16.963,12.5a6.25,6.25,0,1,1,6.25-6.25A6.25,6.25,0,0,1,112.5,31.255ZM100,43.755a6.25,6.25,0,1,1,6.25-6.25A6.25,6.25,0,0,1,100,43.755Zm25,0a6.25,6.25,0,1,1,6.25-6.25A6.25,6.25,0,0,1,125,43.755Zm-12.5,12.5a6.25,6.25,0,1,1,6.25-6.25A6.25,6.25,0,0,1,112.5,56.255Z" transform="translate(325 144.001)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b00"/>
+      <stop offset="1" stop-color="red"/>
+    </linearGradient>
+    <clipPath id="clip-orecipes">
+      <rect width="800" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="orecipes" clip-path="url(#clip-orecipes)">
+    <rect width="800" height="500" fill="url(#linear-gradient)"/>
+    <text id="O_recipes" data-name="O&apos;recipes" transform="translate(400 335)" fill="#fff" font-size="70" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-162.644" y="0">O&apos;recipes</tspan></text>
+    <g id="restaurant-line" transform="translate(340 130)">
+      <path id="Path_27" data-name="Path 27" d="M0,0H120V120H0Z" fill="none"/>
+      <path id="Path_28" data-name="Path 28" d="M117,2V118H104.333V77.4H79V36.8C79,17.58,96.013,2,117,2ZM104.333,16.674C99.077,19.4,91.667,26.186,91.667,36.8v29h12.667V16.674ZM41,71.02V118H28.333V71.02C13.59,68.259,3,56.381,3,42.6V7.8H15.667V48.4H28.333V7.8H41V48.4H53.667V7.8H66.333V42.6c0,13.778-10.586,25.657-25.33,28.419Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

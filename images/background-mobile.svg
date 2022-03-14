@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="517" height="812" viewBox="0 0 517 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_4">
+      <rect width="517" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_4" data-name="iPhone X, XS, 11 Pro – 4" clip-path="url(#clip-iPhone_X_XS_11_Pro_4)">
+    <rect width="517" height="812" fill="rgba(0,15,45,0)"/>
+    <path id="Polygon_11" data-name="Polygon 11" d="M66.468,0,94,27.532V66.468L66.468,94H27.532L0,66.468V27.532L27.532,0Z" transform="translate(354.259 136.862) rotate(-19)" fill="#05f"/>
+    <path id="Polygon_12" data-name="Polygon 12" d="M106.066,0,150,43.934v62.132L106.066,150H43.934L0,106.066V43.934L43.934,0Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 68.211, 641.155)" fill="#05f"/>
+    <path id="Polygon_13" data-name="Polygon 13" d="M45.255,0,64,18.745v26.51L45.255,64H18.745L0,45.255V18.745L18.745,0Z" transform="matrix(0.94, -0.342, 0.342, 0.94, 366.203, 606.875)" fill="#05f"/>
+    <path id="Polygon_16" data-name="Polygon 16" d="M29.7,0,42,12.3V29.7L29.7,42H12.3L0,29.7V12.3L12.3,0Z" transform="matrix(0.94, -0.342, 0.342, 0.94, 229.485, 495.449)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_17" data-name="Polygon 17" d="M29.7,0,42,12.3V29.7L29.7,42H12.3L0,29.7V12.3L12.3,0Z" transform="matrix(0.94, -0.342, 0.342, 0.94, 91.084, 189.449)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_15" data-name="Polygon 15" d="M36.77,0,52,15.23V36.77L36.77,52H15.23L0,36.77V15.23L15.23,0Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 341.588, 267.117)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_14" data-name="Polygon 14" d="M87.681,0,124,36.319V87.681L87.681,124H36.319L0,87.681V36.319L36.319,0Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 45.172, 331.203)" fill="#05f"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-login_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="login_3" data-name="login – 3" clip-path="url(#clip-login_3)">
+    <rect width="1920" height="1080" fill="rgba(0,13,39,0)"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M113.137,0,160,46.863v66.274L113.137,160H46.863L0,113.137V46.863L46.863,0Z" transform="translate(1434.983 99.644) rotate(21)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M103.238,0,146,42.762v60.475L103.238,146H42.762L0,103.238V42.762L42.762,0Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 126.767, 419.368)" fill="#05f"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M104.652,0,148,43.348v61.3L104.652,148h-61.3L0,104.652v-61.3L43.348,0Z" transform="translate(1638.335 620.487) rotate(-9)" fill="#05f"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M72.125,0,102,29.875v42.25L72.125,102H29.875L0,72.125V29.875L29.875,0Z" transform="translate(586.664 66.111) rotate(21)" fill="#05f"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M35.355,0,50,14.645V35.355L35.355,50H14.645L0,35.355V14.645L14.645,0Z" transform="translate(488.989 212.08) rotate(-37)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_6" data-name="Polygon 6" d="M69.3,0,98,28.7V69.3L69.3,98H28.7L0,69.3V28.7L28.7,0Z" transform="translate(1424.269 412.938) rotate(9)" fill="#05f"/>
+    <path id="Polygon_7" data-name="Polygon 7" d="M35.355,0,50,14.645V35.355L35.355,50H14.645L0,35.355V14.645L14.645,0Z" transform="translate(616.043 809.058) rotate(110)" fill="#05f"/>
+    <path id="Polygon_10" data-name="Polygon 10" d="M59.4,0,84,24.6V59.4L59.4,84H24.6L0,59.4V24.6L24.6,0Z" transform="translate(357.832 595.898) rotate(110)" fill="#05f" opacity="0.5"/>
+    <path id="Polygon_8" data-name="Polygon 8" d="M19.8,0,28,8.2V19.8L19.8,28H8.2L0,19.8V8.2L8.2,0Z" transform="translate(1640.228 150.964) rotate(-42)" fill="#05f"/>
+    <path id="Polygon_9" data-name="Polygon 9" d="M32.527,0,46,13.473V32.527L32.527,46H13.473L0,32.527V13.473L13.473,0Z" transform="translate(1453.77 816.285) rotate(21)" fill="#05f" opacity="0.5"/>
+  </g>
+</svg>
